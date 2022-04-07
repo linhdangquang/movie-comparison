@@ -1,8 +1,14 @@
 
+
 # Movie Comparison App
 Movie Fight App use omdb api. #USED AXIOS, BULMA CSS
 
 
+
+
+## Demo
+
+https://linhdangquang.github.io/movie-comparison/
 
 
 ## Authors
